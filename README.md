@@ -1,2 +1,2 @@
 # horiseon_refractor
-Refctoring a marketing agency website
+Refactoring a marketing agency website
